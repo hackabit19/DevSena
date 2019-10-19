@@ -1,6 +1,5 @@
-
-
-# Accident Detection System ![CI status](https://img.shields.io/badge/build-passing-brightgreen.svg)
+# ACCIDetect ![CI status](https://img.shields.io/badge/build-passing-brightgreen.svg)
+###AI based accident detection system
 
 We are providing a system to integrate with the CCTV cameras of roads and provide a quick response to accident victim<br/><br/>
 Map:
