@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+
+    xmlns:camerakit="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:background="#aaa"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <com.wonderkiln.camerakit.CameraView
+        android:id="@+id/cameraView"
+        android:layout_width="410dp"
+        android:layout_margin="10dp"
+        android:layout_height="277dp"
+        android:adjustViewBounds="true"
+        camerakit:ckCropOutput="true"
+        camerakit:ckJpegQuality="70" />
+
+    <TextView
+        android:id="@+id/textViewResult"
+
+        android:textColorHighlight="#fff"
+        android:text="Safe"
+        android:layout_width="283dp"
+        android:layout_height="66dp"
+        android:fadeScrollbars="false"
+        android:layout_marginLeft="60dp"
+        android:maxLines="15"
+        android:textSize="20dp"
+        android:scrollbars="vertical"
+        android:textColor="@android:color/black" />
+
+
+    <ImageView
+        android:id="@+id/imageViewResult"
+        android:layout_width="149dp"
+        android:layout_marginLeft="120dp"
+        android:layout_height="146dp"
+        android:padding="2dp" />
+
+    <Button
+        android:id="@+id/btnDetectObject2"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+
+        android:layout_marginTop="55dp"
+        android:text="@string/detect_object"
+        android:textAllCaps="false"
+        android:textColor="@android:color/black" />
+
+
+
+    <Button
+        android:id="@+id/btnDetectObject"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_marginTop="55dp"
+
+        android:text="@string/detect_object"
+        android:textAllCaps="false"
+        android:textColor="@android:color/black" />
+
+
+
+</LinearLayout>
