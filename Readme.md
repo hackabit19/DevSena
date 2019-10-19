@@ -1,8 +1,9 @@
-# ACCIDetect ![CI status](https://img.shields.io/badge/build-passing-brightgreen.svg)
-###AI based accident detection system
 
-We are providing a system to integrate with the CCTV cameras of roads and provide a quick response to accident victim<br/><br/>
-Map:
+# ACCIDetect ![CI status](https://img.shields.io/badge/build-passing-brightgreen.svg)
+<h3><b>AI based accident detection system</b></h3>
+
+We are providing a system to integrate with the CCTV cameras of roads and provide a quick response to accident victim<br/>
+
 Accident happens + facts x number of death due to road accident happens y% die due to late response by the tespective authority
 People fear+ many places like highway there are no people to make a complain neither police
 There are CCTV installed but very few people are assigned to very large recordings
@@ -35,9 +36,9 @@ Please make sure to update tests as appropriate.
 
 ## The Team
 * [Abhinav Jha](https://github.com/aBITnav)
-* [Nizdain Ahmed](https://github.com/)
-* [Shubham Jha](https://github.com/)
-* [Sanket Agarwal](https://github.com/)
+* [Nizdain Ahmed](https://github.com/nizd)
+* [Shubham Jha](https://github.com/shubhamjha15)
+* [Sanket Agarwal](https://github.com/xterm-hackslash)
 
 
 
