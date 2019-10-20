@@ -29,6 +29,8 @@ Bengaluru has also put <b>5000</b> surveillance cameras on the road.
 * **matplotlib**
 
 
+### Video Demo
+Video Demo is availabe [here](https://drive.google.com/file/d/19Rb5UcmBkM2XKab2V27iBjIcmnjz_pZ7) 
 
 
 
@@ -36,7 +38,7 @@ Bengaluru has also put <b>5000</b> surveillance cameras on the road.
 ### Requirements
 For Lite Version of the Model
 * Android 5.0 and higher
-[Get the app here](https://drive.google.com/open?id=1XwSxOZ09ntXjW8ngqldEI5Z8WpLnH05)
+[Get the app here](https://drive.google.com/open?id=1iX9ZJTzbCB1mx9bGShA4z5vFhw3FFkzT)
 
 
 ## WorkFlow
