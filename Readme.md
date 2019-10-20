@@ -32,8 +32,8 @@ Bengaluru has also put <b>5000</b> surveillance cameras on the road.
 ### Demo
 * Video Demo is availabe [here](https://drive.google.com/file/d/19Rb5UcmBkM2XKab2V27iBjIcmnjz_pZ7) 
 * Pictures <br>
-![](https://github.com/hackabit19/DevSena/blob/master/a1.jpeg)<br>
-![2] (https://github.com/hackabit19/DevSena/blob/master/a2.jpeg)<br>
+![](https://github.com/hackabit19/DevSena/blob/master/a1.jpeg)|
+![](https://github.com/hackabit19/DevSena/blob/master/a2.jpeg)<br>
 
 
 
