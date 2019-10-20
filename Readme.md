@@ -20,9 +20,17 @@ Bengaluru has also put <b>5000</b> surveillance cameras on the road.
 
 ## Technologies Used
 
-* **Tensor Flow**
+* **TensorFlow**
 * **Keras**
 * **OpenCv**
+* **pickle**
+* **twilio**
+* **scikitlearn**
+* **matplotlib**
+
+
+
+
 
 
 ### Requirements
