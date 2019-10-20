@@ -1,6 +1,14 @@
 
 # ACCIDetect ![CI status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 <h3><b>AI based accident detection system</b></h3>
+<h4>The problem</h4>
+According to a data, around one and a half lakh persons die due to road accidents per year in India alone . 30-40% of these road accidents goes unnoticed or neglected by the general public to avoid the unwanted enquiry that can cost lives of several people.
+
+The delay in the response time to these accidents leads to delayed arrival of ambulance or fire brigade to the spot. In these critical situations every second counts for the life.
+
+There is not any concrete step to stop the loss of lives due to such road accidents.
+
+
 
 We are providing a system to integrate with the CCTV cameras of roads and provide a quick response to accident victim<br/>
 
