@@ -1,0 +1,5 @@
+Clone the project in to your system.
+Install the required libraries
+Run it on any python ide.
+To change the input format from saved video to realtime to use camera for recording otherwise use the demo video
+
